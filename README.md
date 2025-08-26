@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1603-running-sum-of-1d-array](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -52,9 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0908-middle-of-the-linked-list](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0383-ransom-note) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
