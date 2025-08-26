@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
