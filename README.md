@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Prefix Sum
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
