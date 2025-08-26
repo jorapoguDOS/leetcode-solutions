@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Prefix Sum
 |  |
 | ------- |
