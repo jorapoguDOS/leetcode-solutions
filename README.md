@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0120-triangle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0120-triangle) |
 | [1603-running-sum-of-1d-array](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
