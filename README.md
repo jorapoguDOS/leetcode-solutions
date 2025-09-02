@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Simulation
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Sorting
 |  |
