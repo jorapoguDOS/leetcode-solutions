@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0120-triangle) |
 | [1603-running-sum-of-1d-array](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+| [1917-maximum-average-pass-ratio](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1917-maximum-average-pass-ratio](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0120-triangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
