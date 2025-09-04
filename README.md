@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0120-triangle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0120-triangle) |
 | [1603-running-sum-of-1d-array](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0383-ransom-note](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [1791-richest-customer-wealth](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
