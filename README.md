@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
