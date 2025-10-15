@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0383-ransom-note](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Sliding Window
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/1448-maximum-69-number) |
