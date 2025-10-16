@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0120-triangle](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0120-triangle) |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0178-rank-scores) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jorapoguDOS/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
