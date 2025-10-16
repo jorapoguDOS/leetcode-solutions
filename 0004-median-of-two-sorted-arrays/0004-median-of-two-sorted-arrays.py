@@ -1,5 +1,6 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        ## Brute Approach
         # merge = nums1 + nums2
         # x = len(merge)
         # merge.sort()
@@ -10,6 +11,8 @@ class Solution:
         #     ans = merge[x//2]
         # return(ans)
 
+
+        # Two Pointer Approach
         m = len(nums1)
         n = len(nums2)
         x1 = 0
